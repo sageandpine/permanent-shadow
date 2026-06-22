@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'permanent-shadow'
+theme = 'paper'
+
+# home page profile
+avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+name = 'pc8r'
+bio = 'artist, husband, zinester, oddball developer'

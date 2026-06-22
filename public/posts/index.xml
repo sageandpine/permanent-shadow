@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on permanent-shadow</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on permanent-shadow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2026 18:15:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Pages</title>
+      <link>http://localhost:1313/posts/hello-pages/</link>
+      <pubDate>Sun, 21 Jun 2026 18:15:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/hello-pages/</guid>
+      <description>It&amp;rsquo;s happening this time. This is my second go at getting hugo to wrok for me. I don&amp;rsquo;t mean that it didn&amp;rsquo;t work a few years back, only that it was so new as to be slightly frustrating to a new developer.&#xA;This time things look slightly more familiar and the docs make more sense. When I write digitally it is almost exclusively in mark down Thank You Obsidian! testing out github pages before i go back to paying for a server and site that i may not keep up.</description>
+    </item>
+  </channel>
+</rss>
