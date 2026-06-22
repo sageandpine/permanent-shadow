@@ -3,10 +3,11 @@ languageCode = 'en-us'
 title = 'permanent-shadow'
 theme = 'paper'
 
-# home page profile
-avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-name = 'pc84'
-bio = 'artist, husband, zinester, oddball developer'
+[params]
+  # home page profile
+  avatar = 'https://pc84.xyz/wp-content/gallery/glitch-code-digital/Concentric.png?t=1683513537'   # gravatar email or image url
+  name = 'pc84'
+  bio = 'artist, husband, zinester, oddball developer'
 
 [caches]
   [caches.images]
