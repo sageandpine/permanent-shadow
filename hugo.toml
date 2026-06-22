@@ -5,5 +5,9 @@ theme = 'paper'
 
 # home page profile
 avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-name = 'pc8r'
+name = 'pc84'
 bio = 'artist, husband, zinester, oddball developer'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
