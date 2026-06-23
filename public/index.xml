@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>permanent-shadow</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on permanent-shadow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 18:15:31 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jun 2026 20:49:46 -0700</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seed 1</title>
+      <link>https://example.org/posts/seed-1/</link>
+      <pubDate>Mon, 22 Jun 2026 20:49:46 -0700</pubDate>
+      <guid>https://example.org/posts/seed-1/</guid>
+      <description>digging in the dirt Here&amp;rsquo;s a link to Peter Gabriel: Digging in the Dirt because it&amp;rsquo;s a great song and these videos are still epic.&#xA;I like the idea of the digital garden.&#xA;It&amp;rsquo;s so easy to stall when I try to make a blog again and find myself wanting to craft the perfect posts every time. I imagine every negative reaction possible to every word and idea that I put down and it makes me hesitate until&amp;hellip;.</description>
+    </item>
     <item>
       <title>Hello Pages</title>
-      <link>http://localhost:1313/posts/hello-pages/</link>
+      <link>https://example.org/posts/hello-pages/</link>
       <pubDate>Sun, 21 Jun 2026 18:15:31 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hello-pages/</guid>
+      <guid>https://example.org/posts/hello-pages/</guid>
       <description>It&amp;rsquo;s happening this time. This is my second go at getting hugo to wrok for me. I don&amp;rsquo;t mean that it didn&amp;rsquo;t work a few years back, only that it was so new as to be slightly frustrating to a new developer.&#xA;This time things look slightly more familiar and the docs make more sense. When I write digitally it is almost exclusively in mark down Thank You Obsidian! testing out github pages before i go back to paying for a server and site that i may not keep up.</description>
     </item>
   </channel>
