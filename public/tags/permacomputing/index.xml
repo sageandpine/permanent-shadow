@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Permacomputing on permanent-shadow</title>
+    <link>http://localhost:1313/tags/permacomputing/</link>
+    <description>Recent content in Permacomputing on permanent-shadow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2026 08:52:14 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/permacomputing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Norns</title>
+      <link>http://localhost:1313/posts/norns/</link>
+      <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
+      <guid>http://localhost:1313/posts/norns/</guid>
+      <description>What is this magic? The monome norns has been a magical little music box that combines my diy desires with built in functionality. If you aren&amp;rsquo;t already familiar with this little device, it won&amp;rsquo;t take much to find a cornicopia of videos displaying it&amp;rsquo;s swiss army knife approach to music creation.&#xA;I won&amp;rsquo;t go over every detail of it but essentially it can be described as a music computer that sneezes in the face of planned obsellesence.</description>
+    </item>
+  </channel>
+</rss>
