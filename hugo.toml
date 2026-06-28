@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sageandpine.github.io/'
 languageCode = 'en-us'
 title = 'permanent-shadow'
 theme = 'paper'
@@ -11,4 +11,5 @@ theme = 'paper'
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    # dir = ':cacheDir/images'
+    dir = ':cacheDir/img'

@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on permanent-shadow</title>
-    <link>https://example.org/tags/</link>
+    <link>https://sageandpine.github.io/tags/</link>
     <description>Recent content in Tags on permanent-shadow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2026 08:52:14 -0700</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sageandpine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diy</title>
-      <link>https://example.org/tags/diy/</link>
+      <link>https://sageandpine.github.io/tags/diy/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/diy/</guid>
+      <guid>https://sageandpine.github.io/tags/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Monome</title>
-      <link>https://example.org/tags/monome/</link>
+      <link>https://sageandpine.github.io/tags/monome/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/monome/</guid>
+      <guid>https://sageandpine.github.io/tags/monome/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://example.org/tags/music/</link>
+      <link>https://sageandpine.github.io/tags/music/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/music/</guid>
+      <guid>https://sageandpine.github.io/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Norns-Shield</title>
-      <link>https://example.org/tags/norns-shield/</link>
+      <link>https://sageandpine.github.io/tags/norns-shield/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/norns-shield/</guid>
+      <guid>https://sageandpine.github.io/tags/norns-shield/</guid>
       <description></description>
     </item>
     <item>
       <title>Perma-Computing</title>
-      <link>https://example.org/tags/perma-computing/</link>
+      <link>https://sageandpine.github.io/tags/perma-computing/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/perma-computing/</guid>
+      <guid>https://sageandpine.github.io/tags/perma-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Slowcode</title>
-      <link>https://example.org/tags/slowcode/</link>
+      <link>https://sageandpine.github.io/tags/slowcode/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://example.org/tags/slowcode/</guid>
+      <guid>https://sageandpine.github.io/tags/slowcode/</guid>
       <description></description>
     </item>
   </channel>
