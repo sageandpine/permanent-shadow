@@ -9,7 +9,7 @@ theme = 'paper'
   name = 'pc84'
   bio = 'artist, husband, zinester, oddball developer'
 
-[caches]
-  [caches.images]
-    # dir = ':cacheDir/images'
-    dir = ':cacheDir/img'
+#[caches]
+#  [caches.images]
+#    dir = ':cacheDir/images'
+    # dir = ':cacheDir/img'

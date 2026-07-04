@@ -6,7 +6,7 @@ tags = ['norns-shield', 'monome', 'music','diy','perma-computing','slowcode']
 
 # What is this magic?
 
-![image of my norns shield](/img/garden/my_shield.png) 
+![image of my norns shield](/pictures/my_shield.png) 
 The [monome](https://monome.org/) norns shield has been a magical little music box that combines my diy budget minded desires with all the functionality of a groove box (and more!). If you aren't already familiar with this little device, it won't take much searching to uncover a cornicopia of videos displaying it's swiss army knife approach to music creation. 
 
 I won't go over every detail of it but essentially it can be described as a music computer that sneezes in the face of planned obsellesence. The creators of this and several other beautiful elecronics are [brian crabtree](https://nnnnnnnn.co) and [kelli cain](http://kellicain.com). They've been at this for 20 years. I'm late lol. The Norn I make or buy today, has the same capabilities computationally as the Norns of 10 years ago. That's not to say htat there haven't been updates or improvements, quite the contrary. Updates have been regular and it's capabilities have grown with incredible contributions from the community. The reason I get the same product ability now, that technically existed 10 years ago is because as computers and processers have gotten faster, monome has stuck to working within the frame of the tech the norns was founded on. 
