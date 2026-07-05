@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diy on permanent-shadow</title>
-    <link>https://sageandpine.github.io/permanent-shadow/tags/diy/</link>
+    <link>http://localhost:1313/permanent-shadow/tags/diy/</link>
     <description>Recent content in Diy on permanent-shadow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2026 08:52:14 -0700</lastBuildDate>
-    <atom:link href="https://sageandpine.github.io/permanent-shadow/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/permanent-shadow/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Norns</title>
-      <link>https://sageandpine.github.io/permanent-shadow/posts/norns/</link>
+      <link>http://localhost:1313/permanent-shadow/posts/norns/</link>
       <pubDate>Wed, 24 Jun 2026 08:52:14 -0700</pubDate>
-      <guid>https://sageandpine.github.io/permanent-shadow/posts/norns/</guid>
+      <guid>http://localhost:1313/permanent-shadow/posts/norns/</guid>
       <description>What is this magic? The monome norns shield has been a magical little music box that combines my diy budget minded desires with all the functionality of a groove box (and more!). If you aren&amp;rsquo;t already familiar with this little device, it won&amp;rsquo;t take much searching to uncover a cornicopia of videos displaying it&amp;rsquo;s swiss army knife approach to music creation.&#xA;I won&amp;rsquo;t go over every detail of it but essentially it can be described as a music computer that sneezes in the face of planned obsellesence.</description>
     </item>
   </channel>
