@@ -1,4 +1,4 @@
-baseURL = 'https://sageandpine.github.io/permanent-shadow'
+baseURL = 'https://sageandpine.github.io/permanent-shadow/'
 languageCode = 'en-us'
 title = 'permanent-shadow'
 theme = 'paper'

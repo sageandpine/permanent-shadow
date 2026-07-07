@@ -2,42 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/permanent-shadow/tags/diy/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/norns/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/monome/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
+    <loc>https://sageandpine.github.io/permanent-shadow/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/music/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/permanent-shadow/posts/norns/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/norns-shield/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/perma-computing/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/posts/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/slowcode/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/tags/</loc>
-    <lastmod>2026-06-24T08:52:14-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/permanent-shadow/posts/seed-1/</loc>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/seed-1/</loc>
     <lastmod>2026-06-22T20:49:46-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/permanent-shadow/posts/hello-pages/</loc>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/hello-pages/</loc>
     <lastmod>2026-06-21T18:15:31-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/permanent-shadow/categories/</loc>
+    <loc>https://sageandpine.github.io/permanent-shadow/categories/</loc>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/</loc>
   </url>
 </urlset>
