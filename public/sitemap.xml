@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sageandpine.github.io/permanent-shadow/posts/norns/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/art/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/cmyk/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/daily-drawing/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sageandpine.github.io/permanent-shadow/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sageandpine.github.io/permanent-shadow/posts/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/scribble_0001/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/sketchbook/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/tags/</loc>
+    <lastmod>2026-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sageandpine.github.io/permanent-shadow/posts/norns/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sageandpine.github.io/permanent-shadow/posts/seed-1/</loc>
@@ -18,7 +36,5 @@
     <lastmod>2026-06-21T18:15:31-07:00</lastmod>
   </url><url>
     <loc>https://sageandpine.github.io/permanent-shadow/categories/</loc>
-  </url><url>
-    <loc>https://sageandpine.github.io/permanent-shadow/tags/</loc>
   </url>
 </urlset>
